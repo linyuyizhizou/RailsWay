@@ -1,0 +1,26 @@
+<h1>articles listing index</h1>
+<p></p>
+<table>
+  <thead>
+  <th>Title</th>
+  <th>Description</th>
+  <th colspan="3">action</th>
+  </thead>
+  <tbody>
+  <% @articles.each do |art| %>
+    <tr>
+      <td><%= art.title %></td>
+      <td><%= art.description %></td>
+      <td><%= art.secret %></td>
+      <!--      <td><%#= link_to 'Delete' ,'#'%></td>-->
+      <!--      <td><%#= link_to 'Delete', article_path(art) %></td>-->
+      <td><%= link_to 'Show',article_path(art) %></td>
+      <td><%= link_to 'Edit',edit_article_path(art) %></td>
+      <td><%= link_to 'Delete', article_path(art), data: { turbo_method: :delete } %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
+<p>
+  <%= link_to 'Create new article ',new_article_path %>
+</p>

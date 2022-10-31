@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="ruby-2.7.0-p0" project-jdk-type="RUBY_SDK" />
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="602" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/new.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="272" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/show.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="97" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/models/article.rb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="471" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/edit.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="582" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/index.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="115" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/pages/about.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="110" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/pages/home.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="119" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/controllers/articles_controller.rb" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>
