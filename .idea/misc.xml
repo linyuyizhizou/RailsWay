@@ -5,14 +5,6 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="602" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/new.html.erb" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
-          <option name="caretOffset" value="272" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/show.html.erb" />
-        </OpenedFileInfo>
-        <OpenedFileInfo>
           <option name="caretOffset" value="97" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/app/models/article.rb" />
         </OpenedFileInfo>
@@ -21,7 +13,7 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/edit.html.erb" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="582" />
+          <option name="caretOffset" value="741" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/articles/index.html.erb" />
         </OpenedFileInfo>
         <OpenedFileInfo>
@@ -29,12 +21,27 @@
           <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/pages/about.html.erb" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="110" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/pages/home.html.erb" />
+          <option name="caretOffset" value="978" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/controllers/articles_controller.rb" />
         </OpenedFileInfo>
         <OpenedFileInfo>
-          <option name="caretOffset" value="119" />
-          <option name="fileUrl" value="file://$PROJECT_DIR$/app/controllers/articles_controller.rb" />
+          <option name="caretOffset" value="73" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/models/application_record.rb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="53" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/layouts/_messages.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/layouts/_form.html.erb" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="fileUrl" value="mock:///Diff" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="384" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         </OpenedFileInfo>
       </list>
     </option>
